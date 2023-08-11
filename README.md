@@ -9,4 +9,4 @@
 4. Discovering Libraries
 5. Axios & HTTP Requests
 6. Third-Party Libraries Considerations
-7. ---
+---
